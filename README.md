@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1>Hi, I'm Daniil
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-    <h3>Go developer from Russia 🇷🇺
+    <h3>Go developer from Russia
     <img src="https://www.get-emoji.com/images/emoji/1f1f7-1f1fa.png" height="18"/></h3>
 </div>
 
