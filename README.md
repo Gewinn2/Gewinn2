@@ -23,4 +23,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/>&nbsp;
 
 ### 🔥My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gewinn2&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gewinn2&theme=dracula)
