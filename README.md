@@ -22,4 +22,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/>&nbsp;
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gewinn2&theme=dark&background=000000)](https://git.io/streak-stats)
 [![gewinn2's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gewinn2&theme=dark)](https://github.com/gewinn2/leetcode-stats)
